@@ -13,6 +13,7 @@ The goal of `semcp` organization is to build a secure foundation for the Agent a
 ## Projects
 
 - [semcp](https://github.com/semcp/semcp): a kit for running MCP servers in docker containers, providing drop-in replacement for `npx` or `uvx`, specifically designed for MCP servers.
+- [mcp-sinstaller](https://github.com/semcp/mcp-sinstaller): a MCP server to install and containerize other MCP servers.
 - [MCP Capability Policy](https://github.com/semcp/policy-mcp-rs): MCP Capability Policy specification and library.
 - [🐪 Dromedary](https://github.com/semcp/dromedary): a capability-based agent system designed to protect against prompt injection.
 
